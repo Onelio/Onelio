@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm a Software Engineering student from Spain.
+
+- 🔭 I study at UOC.edu (Universitat Oberta de Catalunya)
+- 🤔 I’m currently interested in WinApi, Baremetal ASMx86 and Software RE
+- 📫 How to reach me: twitter.com/Onelio1
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onelio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Onelio/Onelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
